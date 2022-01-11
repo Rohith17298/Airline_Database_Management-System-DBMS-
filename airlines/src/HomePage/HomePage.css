@@ -1,0 +1,40 @@
+.home-page{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* background-color: #aee4d9; */
+    height: 550px;
+    padding: 10px;
+    align-items: center;
+    background-image: url('/src/Images/route.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.lefthomepage{
+    height: 200px;
+    background-image: url('/src/Images/Welcome.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.righthomepage{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-flights{
+    border: 0px solid black;
+    border-radius: 8px 90px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    height: 453px;
+    width: 257px;
+    box-shadow: 3px 5px 15px 13px #a79e9a;
+    align-content: center;
+    justify-content: center;
+    padding: 0px 20px;
+}

@@ -1,0 +1,7 @@
+.incr-decr{
+    display: flex;
+    flex-direction: row;
+    align-content: stretch;
+    justify-content: center;
+    align-items: center;
+}

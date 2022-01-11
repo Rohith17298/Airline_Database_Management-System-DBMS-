@@ -1,0 +1,7 @@
+.help{
+    background-image: url('/src/Images/helpImage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    opacity: 0.8;
+}

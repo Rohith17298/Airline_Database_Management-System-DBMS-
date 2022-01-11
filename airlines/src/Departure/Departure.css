@@ -1,0 +1,25 @@
+.buttonNo{
+background-color: red !important;
+}
+.buttonYes{
+background-color: green !important;
+}
+.flights{
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr 1fr 1fr 1fr 1fr 1fr;
+    padding: 10px;
+    align-items: center;
+}
+.selected{
+    background-color: aliceblue;
+}
+
+.header{
+    background-color: gold;
+}
+
+.departure{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

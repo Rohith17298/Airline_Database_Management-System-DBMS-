@@ -1,0 +1,8 @@
+.contact{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* background-color: #aee4d9; */
+    height: 630px;
+    padding: 10px;
+    align-items: center;
+}
